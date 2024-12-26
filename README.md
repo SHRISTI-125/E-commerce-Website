@@ -3,6 +3,9 @@
 <h2>🌟 Description</h2>
 A simple and user-friendly e-commerce platform showcasing products with features like a shopping cart and detailed product pages. Built with HTML, CSS, and JavaScript.
 
+## 📌 Demo
+Checkout my project here : miss-lehenga-designer.netlify.app/
+
 ## 🚀 Features
 <ul>
   <li>🛍️ Product Showcase: Display of product categories.</li>
