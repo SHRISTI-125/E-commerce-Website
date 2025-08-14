@@ -18,7 +18,7 @@ Traditional fashion meets modern tech.
 
 ---
 
-## 🌟 Features You’ll Love
+## 🌟 Features 
 - **Beautiful Product Gallery** — Scroll-worthy lehenga collections.
 - **Interactive Cart System** — Add/remove your favourites instantly.
 - **Responsive Design** — Looks fab on all screens.
